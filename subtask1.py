@@ -12,3 +12,4 @@ while p <= n:
 q = (x-1) * (x-1)
 # output
 print(q)
+# figured out how to git :)
